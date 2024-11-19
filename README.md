@@ -15,3 +15,4 @@ training. The project aims to revolutionize meeting management by automating
 the generation of meeting minutes, improving attendance tracking, and enhancing
 the overall meeting experience.
 "# Convologix-A-Meeting-Minutes-Generator-and-Face-Attendance-System" 
+"# Convologix-A-Meeting-Minutes-Generator-and-Face-Attendance-System" 
