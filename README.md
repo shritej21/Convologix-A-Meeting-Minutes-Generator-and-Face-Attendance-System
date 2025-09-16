@@ -50,15 +50,17 @@ Manual meeting minutes and attendance processes are:
 
 
 ## 📂 Repository Structure
-├── Code/ # Source code for modules
-├── Dataset/ # Face recognition dataset
-├── Extracted Audio/ # Audio separated from video
-├── Minutes of Meeting/ # Generated summaries
-├── Trained Model/ # Pre-trained CNN/LBPH models
-├── Test Accuracy/ # Model evaluation results
-├── Video Screenshots/ # Sample outputs
-├── images/ # Testing images
-├── README.md # Project documentation
-├── Requirement.txt # Dependencies
+
+- `Code/` – Source code for modules  
+- `Dataset/` – Face recognition dataset  
+- `Extracted Audio/` – Audio separated from video  
+- `Minutes of Meeting/` – Generated summaries  
+- `Trained Model/` – Pre-trained CNN/LBPH models  
+- `Test Accuracy/` – Model evaluation results  
+- `Video Screenshots/` – Sample outputs  
+- `images/` – Testing images  
+- `README.md` – Project documentation  
+- `Requirement.txt` – Dependencies  
+
 
 
