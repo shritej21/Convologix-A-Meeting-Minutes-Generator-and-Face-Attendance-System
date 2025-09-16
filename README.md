@@ -49,7 +49,7 @@ Manual meeting minutes and attendance processes are:
 - **NumPy, OS, Datetime** for utilities
 
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `Code/` – Source code for modules  
 - `Dataset/` – Face recognition dataset  
@@ -62,5 +62,19 @@ Manual meeting minutes and attendance processes are:
 - `README.md` – Project documentation  
 - `Requirement.txt` – Dependencies  
 
+---
 
+## ⚙️ Installation
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/shritej21/Convologix-A-Meeting-Minutes-Generator-and-Face-Attendance-System.git
+   cd Convologix-A-Meeting-Minutes-Generator-and-Face-Attendance-System
+
+2.   **Install dependencies and run the application**
+     ```bash
+     pip install -r Requirement.txt
+3.  **Run the application**
+    ```bash
+    python main.py  
+   
